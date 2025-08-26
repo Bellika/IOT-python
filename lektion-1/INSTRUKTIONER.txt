@@ -1,0 +1,15 @@
+Under första lektionen gick vi igenom mappstruktur, CLI (terminal), git/github och vim. 
+
+I filen cli-commands.txt hittar ni några vanligt förekommande commands. Ni ska bekanta er 
+med dessa och kunna dem utantill. Det finns även en sektion om Git-commands. Dessa är inte
+lika relevanta men vi kommer att använda dem senare i kursen. Fokusera på att förstå hur ni hämtar
+ny kod från repot jag delar (git pull). Ni kan även göra en fork på repot om ni själva vill kunna 
+ladda upp egen kod på github.
+
+Ni ska bli bekväma med att navigera i CLI. Tänk på att alltid veta vart ni står
+när ni skriver in era commands. Det är ofta som det blir fel eller inte fungerar
+för att man har fel position i filträdet. 
+
+Bli även bekväma med att redigera filer med Vim. Man kan djupdyka i Vim och göra
+mycket. Men till att börja med ska ni bara bli bekväma med att öppna en fil, redigera den
+och sedan spara filen. 
