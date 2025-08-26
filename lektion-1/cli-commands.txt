@@ -1,0 +1,43 @@
+CLI kommandon:
+
+sudo - Super User Do (kör som administratör)
+
+pwd - Står för Print Working Directory. Det här kommandot visar den fullständiga sökvägen till den nuvarande katalogen (mappen) du befinner dig i.
+
+cd - Står för Change Directory. Det används för att byta till en annan katalog.
+
+ls - Visar en lista över filer och kataloger i den nuvarande katalogen. Det är som att titta på innehållet i en mapp.
+
+mkdir - Står för Make Directory. Det används för att skapa en ny katalog (mapp).
+
+touch - Skapar en fil.
+
+rm -rf - Står för Remove med flaggorna -r (rekursiv) och -f (force). Det här kommandot tar bort filer och kataloger permanent utan att fråga om bekräftelse.
+
+mv - Står för Move. Används för att flytta eller byta namn på filer och kataloger.
+
+cat - skriver ut  innehållet i en fil
+
+clear - Rensar terminalen genom att ta bort all text från skärmen. Det påverkar inte några filer eller kataloger, bara den visuella representationen i terminalen.
+
+ctrl + c - avbryter process i CLI
+
+Git kommandon:
+
+git clone - klonar repo från github
+
+git status - Det här kommandot låter dig se vilka ändringar som har gjorts och om de är redo att committas eller behöver läggas till i indexet först.
+
+git add . - Lägger till alla ändrade filer i indexet (staging area), så att de är redo att committas. Punkten (.) betyder att alla ändrade filer i arbetskatalogen inkluderas.
+
+git commit -m "Kommentar" - Skapar en commit med en meddelandekommentar som beskriver ändringarna du har gjort.
+
+git push - Laddar upp dina commitar från den lokala git-repositorien till den fjärranslutna repositorien (t.ex. GitHub). Detta gör att ändringarna blir tillgängliga för andra användare.
+
+git pull - Hämtar de senaste ändringarna från fjärranslutna repositoriet och sammanfogar dem med din nuvarande lokala gren(branch).
+ 
+git log - Visar historiken av tidigare commits i projektet. Du får en lista över alla commits, deras hash-värden, författare, datum, och commit-meddelanden.
+
+git checkout name-of-branch - Byter till en annan gren (branch) i projektet. Du anger namnet på den gren du vill byta till, och Git byter till den och laddar ned innehållet från den grenen.
+
+git checkout -b name-of-branch - Skapar en ny gren med det angivna namnet och byter samtidigt till den.
