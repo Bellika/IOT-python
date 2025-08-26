@@ -1,0 +1,9 @@
+VIM INTRO
+
+För att öppna en fil med vim: vim "filnamn"
+
+För att redigera en fil när du är i vim, tryck på "i" för att hamna i insert-mode
+
+För att gå ut ur insert mode, tryck på "esc"
+
+För att spara och stänga fil ":wq"
