@@ -1,0 +1,5 @@
+Denna lektion började vi arbeta med Python. Vi installerade Python och VSCode. 
+Det finns tre mappar under lektion-2. Börja med att gå igenom variables, sedan kan ni 
+kolla på data_types och operators. Studera koden från föreläsningen (t.ex variables.py) 
+och sedan finns det uppgifter ni kan skriva direkt i VSCode för att öva. Ni har även en 
+fil med lösningar ni kan använda för att rätta era svar. 
