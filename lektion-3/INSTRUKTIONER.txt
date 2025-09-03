@@ -1,0 +1,2 @@
+Denna vecka pratade vi om if statements och loopar. 
+Gå igenom koden i båda mapparna från föreläsningen och gör övningarna.

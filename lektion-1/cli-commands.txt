@@ -22,6 +22,8 @@ clear - Rensar terminalen genom att ta bort all text från skärmen. Det påverk
 
 ctrl + c - avbryter process i CLI
 
+code - kommando för att öppna specifik fil i vs code, t.ex. code main.py (kör man code . öppnar man allt i mappen man står i)
+
 Git kommandon:
 
 git clone - klonar repo från github
