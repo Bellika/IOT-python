@@ -43,3 +43,16 @@ git log - Visar historiken av tidigare commits i projektet. Du får en lista öv
 git checkout name-of-branch - Byter till en annan gren (branch) i projektet. Du anger namnet på den gren du vill byta till, och Git byter till den och laddar ned innehållet från den grenen.
 
 git checkout -b name-of-branch - Skapar en ny gren med det angivna namnet och byter samtidigt till den.
+
+git branch -D name-of-branch - tar bort branch
+
+git merge - mergar branchen du väljer in i din nuvarande branch 
+
+FÖR ATT KOPPLA LOKALT REPO TILL GITHUB:
+Gå till github och skapa ett tomt repo
+Kopiera URL till repo (var noga med om det är SSH eller HTTPS)
+
+git remote add origin "URL till repo"
+git branch -M main - byter namn på master till main
+git push -u origin main - sätter upstream och pushar till branchen
+
