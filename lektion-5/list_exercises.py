@@ -51,7 +51,7 @@ def ex_1_4():
 
 def ex_1_5():
     """
-    Create a variable `array11` as a copy of `array1`.
+    Create a variable `array11` as a clone of `array1`.
     Sort array11 according to its values (smallest first, largest last).
     """
     # TODO: Write your code here

@@ -18,9 +18,6 @@ students.pop('Bob')
 for name, grades in students.items():
     print_student_info(name, grades)
 
-if __name__ == "__main__":
-    print("\nScript was run directly!")
-
 # Test safe execute
 
 di = {"a": 1, "b": 2}
@@ -34,3 +31,6 @@ safe_execute(divide, 10, "hello")
 
 # conversion
 safe_execute(string_to_int, "abc")
+
+if __name__ == "__main__":
+    print("\nScript was run directly!")
