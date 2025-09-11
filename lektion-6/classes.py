@@ -44,7 +44,7 @@ class Song:
 song1 = Song('I love python', 'Jane Doe')
 print(song1)
 
-# class variables - instanec variables
+# class variables - instance variables
 class Phone:
     category = 'Electronics'
 
