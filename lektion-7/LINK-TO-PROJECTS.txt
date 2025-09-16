@@ -1,0 +1,7 @@
+Beginner projects: 
+
+https://github.com/jorgegonzalez/beginner-projects
+
+More advanced projects:
+
+https://github.com/karan/Projects#data-structures
